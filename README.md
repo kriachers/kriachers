@@ -1,6 +1,6 @@
 ## About me
 
-I'm a Frontend Developer passionate about building user-friendly and performant web applications using modern web technologies. My skillset includes:
+I'm a Frontend Developer building user-friendly and performant web applications using modern web technologies. My skillset includes:
 
 * **Front-end Frameworks:** React, Redux
 * **Languages:** TypeScript, JavaScript ES6
