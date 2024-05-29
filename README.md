@@ -1,6 +1,5 @@
-<h3 align="center">About me</h3>
+## About me
 
- 🔭 About Me:
 I'm a Frontend Developer with a skillset in modern web technologies:
 
 Front-end Frameworks: React, Redux
@@ -10,9 +9,7 @@ Markup: HTML5
 
 ## Education
 
-**Master of Science in Multilingual Technologies** (Expected Graduation Year)
-
-* **Institution Name** (link to institution website if applicable)
+**Master of Science in Multilingual Technologies** (2023-2025)
 
 This program focuses on the intersection of Data Science, Machine Learning, and Natural Language Processing (NLP), equipping me with the skills to tackle modern tech challenges.
 
