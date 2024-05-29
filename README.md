@@ -1,11 +1,11 @@
 ## About me
 
-I'm a Frontend Developer with a skillset in modern web technologies:
+I'm a Frontend Developer passionate about building user-friendly and performant web applications using modern web technologies. My skillset includes:
 
-Front-end Frameworks: React, Redux
-Languages: TypeScript, JavaScript ES6
-Styling: CSS, SCSS, Tailwind CSS
-Markup: HTML5
+* **Front-end Frameworks:** React, Redux
+* **Languages:** TypeScript, JavaScript ES6
+* **Styling:** CSS, SCSS, Tailwind CSS
+* **Markup:** HTML5
 
 ## Education
 
