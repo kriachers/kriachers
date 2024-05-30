@@ -1,6 +1,7 @@
 ## About me
 
-I'm a Frontend Developer building user-friendly and performant web applications using modern web technologies. My skillset includes:
+I'm a Software Developer and Data Scientist working primaly with NLP and Large Languages Models. 
+My skillset includes:
 
 * **Front-end Frameworks:** React, Redux
 * **Languages:** TypeScript, JavaScript ES6
