@@ -1,8 +1,15 @@
 ## About me
 
-I'm a Software Developer and Data Scientist working primaly with NLP and Large Languages Models. 
-My skillset includes:
+Data Science & ML (primaly NLP and Large Languages Models). 
 
+**Technical Skills:**
+
+* Programming: Python
+* Libraries: pandas, PyTorch, NumPy, visualisation (Seaborn, Plotly), data scrapping (Beautiful Soup), text preprocessing (nltk), ML (scikit-learn), explanations (lime)
+* NLP: LSTMs (BERT, Roberta, T5)
+* Machine Learning Algorithms
+
+Frontend Development:
 * **Front-end Frameworks:** React, Redux
 * **Languages:** TypeScript, JavaScript ES6
 * **Styling:** CSS, SCSS, Tailwind CSS
@@ -14,12 +21,6 @@ My skillset includes:
 
 This program focuses on the intersection of Data Science, Machine Learning, and Natural Language Processing (NLP), equipping me with the skills to tackle modern tech challenges.
 
-**Technical Skills:**
-
-* Programming: Python
-* Libraries: pandas, nltk, PyTorch, NumPy
-* NLP: LSTMs (BERT, Roberta, T5)
-* Machine Learning Algorithms
 
 ## Personal Projects
 
